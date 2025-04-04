@@ -1,0 +1,7 @@
+2025-04-04 13:17:48.860683 - Received CBT.V508.FILE650.PDS from FILE650.XMI 
+2025-04-04 13:17:48.861437 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE650.PDS, moved to PDS/$$$#DATE
+2025-04-04 13:17:48.861591 - Found $$DOC.txt (text/plain) in CBT.V508.FILE650.PDS, moved to PDS/$$DOC
+2025-04-04 13:17:48.861722 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE650.PDS, moved to PDS/$$NOTE1
+2025-04-04 13:17:48.861846 - Found @FILE650.txt (text/plain) in CBT.V508.FILE650.PDS, moved to PDS/@FILE650
+2025-04-04 13:17:48.861965 - Found CSAREPTS.jcl (text/plain) in CBT.V508.FILE650.PDS, moved to PDS/CSAREPTS
+2025-04-04 13:17:48.862096 - Found VSMLIST.jcl (text/plain) in CBT.V508.FILE650.PDS, moved to PDS/VSMLIST
